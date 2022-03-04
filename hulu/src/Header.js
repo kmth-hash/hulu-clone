@@ -19,23 +19,23 @@ function Header() {
                     </div>
                     <div className="header_icon">
                     <FlashIcon />
-                        <p>Home</p>
+                        <p>Nothing</p>
                     </div>
                     <div className="header_icon">
                     <LiveTvIcon />
-                        <p>Home</p>
+                        <p>Nothing</p>
                     </div>
                     <div className="header_icon">
                     <VideoLibraryIcon />
-                        <p>Home</p>
+                        <p>Nothing</p>
                     </div>
                     <div className="header_icon">
                     <SearchIcon />
-                        <p>Home</p>
+                        <p>Nothing</p>
                     </div>
                     <div className="header_icon">
                     <PersonOutlineIcon />
-                        <p>Home</p>
+                        <p>You Guessed it</p>
                     </div>
                                         
                 </div>
