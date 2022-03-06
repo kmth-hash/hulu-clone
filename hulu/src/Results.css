@@ -1,0 +1,6 @@
+.resultsDiv > div  {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+}
+
